@@ -4,16 +4,16 @@ Adjuested mono fonts from the web for QtCreator,
 Added few things like Line height to work better with QtCreator editor.
 
 ## Qute Font:
-###Regular:
+### Regular:
 https://github.com/foxoman/fontsmono/blob/master/Qute-Regular.ttf
 ###Bold
 https://github.com/foxoman/fontsmono/blob/master/Qute-Bold.ttf
 
-#Opera Mono:
-###Regular
+## Opera Mono:
+### Regular
 https://github.com/foxoman/fontsmono/blob/master/OperaMono-RegularQt.ttf
 
-###Italic
+### Italic
 https://github.com/foxoman/fontsmono/blob/master/OperaMono-RegularItalicQt.ttf
 
 
