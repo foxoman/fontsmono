@@ -4,7 +4,8 @@
 ###################################
 # from http://input.fontbureau.com/
 ###################################
-
+# To use it:
+# python2 fontfix.py --suffix=Qt --lineHeight=1.4
 # Thanks to Jonas Kjellström and Cody Boisclair for their help in finding bugs in this script!
 
 import re
